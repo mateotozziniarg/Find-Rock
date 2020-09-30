@@ -1,0 +1,12 @@
+.ut {
+  background: #f8f8f8;
+  color: red;
+  width: 100%;
+  height: 100vh;
+  position: absolute;
+  z-index: 123333344;
+  text-align: center;
+}
+.utut {
+  text-align: left;
+}
